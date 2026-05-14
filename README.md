@@ -19,5 +19,5 @@
 pkg update && pkg upgrade
 pkg install termux-api python -y
 git clone https://github.com/andrejpedin-wq/YANDEX-ANNIHILATION.git
-cd Yandex-ANNIHILATION
+cd YANDEX-ANNIHILATION
 bash yandex_clean.sh
